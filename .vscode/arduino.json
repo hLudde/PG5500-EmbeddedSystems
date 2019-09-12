@@ -1,0 +1,5 @@
+{
+    "sketch": "Homework\\Datalogger\\src.ino",
+    "board": "arduino:avr:uno",
+    "port": "COM3"
+}
